@@ -2,7 +2,9 @@
 
 **BaseCrate** is a DeFi investment project aimed at providing innovative solutions for decentralized finance, offering users secure and profitable investment options within the crypto ecosystem.
 
-BasedCrate offers a user-friendly platform where investors can easily access and invest in diversified baskets of assets tailored to various risk profiles and investment goals. By leveraging blockchain technology, we ensure transparency, security, and ease of access. Our solution reduces the need for extensive financial knowledge, enabling more individuals to participate in the investment ecosystem
+BasedCrate offers a user-friendly platform where investors can easily access and invest in diversified baskets of assets tailored to various risk profiles and investment goals. By leveraging blockchain technology, we ensure transparency, security, and ease of access. Our solution reduces the need for extensive financial knowledge, enabling more individuals to participate in the investment ecosystem.
+
+---
 <img width="1680" alt="Screenshot 2024-10-21 at 12 29 10" src="https://github.com/user-attachments/assets/90b72d02-22b5-479f-86f7-3afb7ce3edd7">
 
 
