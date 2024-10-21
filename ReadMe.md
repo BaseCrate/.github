@@ -2,7 +2,7 @@
 
 **BaseCrate** is a DeFi investment project aimed at providing innovative solutions for decentralized finance, offering users secure and profitable investment options within the crypto ecosystem.
 
-## Links
+## Code
 
 - [Contracts](https://github.com/BaseCrate/frontend)  
 - [Frontend](https://github.com/BaseCrate/basecrate-contracts)
