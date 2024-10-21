@@ -4,8 +4,8 @@
 
 ## Links
 
-- [Contracts](#)  
-- [Frontend](#)
+- [Contracts](https://github.com/BaseCrate/frontend)  
+- [Frontend](https://github.com/BaseCrate/basecrate-contracts)
 
 ## How to Run
 
