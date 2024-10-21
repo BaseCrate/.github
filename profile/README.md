@@ -7,6 +7,9 @@ BasedCrate offers a user-friendly platform where investors can easily access and
 ---
 <img width="1680" alt="Screenshot 2024-10-21 at 12 29 10" src="https://github.com/user-attachments/assets/90b72d02-22b5-479f-86f7-3afb7ce3edd7">
 
+## dAPP
+
+- [https://basecrate.vercel.app/](https://basecrate.vercel.app/)
 
 ## Code
 
